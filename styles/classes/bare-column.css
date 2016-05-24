@@ -1,0 +1,10 @@
+.bare-column-container
+{
+  display:table;
+  width:100%;
+}
+
+.bare-column-cell
+{
+  display:table-cell;
+}
